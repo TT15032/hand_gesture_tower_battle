@@ -1,5 +1,6 @@
 
-https://github.com/user-attachments/assets/4927bca5-0bd0-4b79-b5da-fa47bd6e5248
+![プレビュー](output52.mov)
+
 
 
 # Hand Gesture Tower Battle
