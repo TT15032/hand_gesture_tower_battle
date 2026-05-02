@@ -1,0 +1,22 @@
+[project]
+name = "opencv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "arcade>=3.1.0",
+    "ipykernel>=6.29.5",
+    "labelme>=5.8.1",
+    "labelme2yolo>=0.2.5",
+    "matplotlib>=3.10.1",
+    "notebook>=7.4.1",
+    "onnx>=1.17.0",
+    "opencv-python>=4.11.0.86",
+    "pygame>=2.6.1",
+    "pymunk>=6.9.0",
+    "pyxel>=2.3.18",
+    "shapely>=2.1.0",
+    "triangle>=20250106",
+    "ultralytics>=8.3.119",
+]
