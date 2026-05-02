@@ -1,9 +1,6 @@
 
 
-https://github.com/user-attachments/assets/3ae3f609-a247-4045-bf11-165d7ceaf40a
-
-
-
+https://github.com/user-attachments/assets/282530a3-8ec7-4ce7-97a8-60bbbfd89211
 
 
 # Hand Gesture Tower Battle
