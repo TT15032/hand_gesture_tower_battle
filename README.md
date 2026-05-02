@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/3ae3f609-a247-4045-bf11-165d7ceaf40a
+
+
+
+
+
 # Hand Gesture Tower Battle
 
 カメラに映した手の輪っかの形をリアルタイムにセグメンテーションし、その輪郭をそのまま物理オブジェクトとしてゲーム内に落とす積み上げゲームです。
