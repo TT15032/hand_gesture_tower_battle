@@ -69,6 +69,7 @@ python3 game.py
 - Train : Validation = 8 : 2
 
 学習結果：
+
 <img width="734" height="318" alt="スクリーンショット 2026-06-10 2 02 39" src="https://github.com/user-attachments/assets/0ea08aae-caaa-4945-bc73-ed4af1ebc928" />
 
 
