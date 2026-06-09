@@ -68,6 +68,10 @@ python3 game.py
 - Batch Size: 16
 - Train : Validation = 8 : 2
 
+学習結果：
+<img width="734" height="318" alt="スクリーンショット 2026-06-10 2 02 39" src="https://github.com/user-attachments/assets/0ea08aae-caaa-4945-bc73-ed4af1ebc928" />
+
+
 自分で学習し直す場合は `train_seg.ipynb` を参照してください。
 
 ## 依存ライブラリ
